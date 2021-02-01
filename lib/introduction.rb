@@ -3,14 +3,14 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-def introduction(name = 'Susana')
-  puts "Hi, my name is #{name}."
-end
+#def introduction(name = 'Susana')
+#  puts "Hi, my name is #{name}."
+#end
 
-introduction
+#introduction
 
 def introduction_with_language(name, language)
-  puts "Hi, name name is #{name}, and I am learning to program in #{language}!"
+  puts "Hi, my name is #{name}, and I am learning to program in #{language}!"
 end
 
 name = "Susana"
@@ -18,13 +18,13 @@ language = "Ruby"
 
 introduction_with_language
 
-def introduction_with_language_optional(name, language = 'Ruby')
-  puts "Hi, my name is #{name} and I am learning to program in #{language}!"
-end
+#def introduction_with_language_optional(name, language = 'Ruby')
+#  puts "Hi, my name is #{name} and I am learning to program in #{language}!"
+#end
 
-name = "Susana"
+#name = "Susana"
 
-introduction_with_language(name, language)
+#introduction_with_language(name, language)
 
 
 
