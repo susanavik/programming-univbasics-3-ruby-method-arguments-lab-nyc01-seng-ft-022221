@@ -7,7 +7,7 @@ def introduction(name = 'Susana')
   puts "Hi, my name is #{name}!"
 end
 
-introduction(name)
+introduction
 
 
 
